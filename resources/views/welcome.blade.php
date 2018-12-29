@@ -23,7 +23,7 @@
 					</div>
 					<div>
 						<!-- intro block slide -->
-						<article class="intro-block-slide overlay bg-cover" style="background-image: url(http://placehold.it/1920x823);">
+						<article class="intro-block-slide overlay bg-cover" style="background-image:url({{url('/images/principal2.jpg')}})">
 							<div class="align-wrap container">
 								<div class="align">
 									<div class="anim">
@@ -35,20 +35,11 @@
 					</div>
 					<div>
 						<!-- intro block slide -->
-						<article class="intro-block-slide overlay bg-cover" style="background-image: url(http://placehold.it/1920x823);">
+						<article class="intro-block-slide overlay bg-cover" style="background-image:url({{url('/images/principal3.jpg')}})">
 							<div class="align-wrap container">
 								<div class="align">
 									<div class="anim">
-										<h1 class="intro-block-heading">Training Organization</h1>
-									</div>
-									<div class="anim delay1">
-										<p>We offer the most complete course pakage in the country, for the research, design and development of Education.</p>
-									</div>
-									<div class="anim delay2">
-										<div class="btns-wrap">
-											<a href="courses-list.html" class="btn btn-warning btn-theme text-uppercase">Our Courses</a>
-											<a href="contact.html" class="btn btn-white text-uppercase">Contact us</a>
-										</div>
+										<h1 class="intro-block-heading">Otro Año Más :3</h1>
 									</div>
 								</div>
 							</div>
@@ -113,7 +104,7 @@
 										<img src="{{asset('images/pequeno2.jpg')}}" alt="image description">
 									</div>
 
-									<h3 class="post-heading text-center"><a href="course-single.html">Abrazaditos :3</a></h3>
+									<h3 class="post-heading text-center"><a href="course-single.html">Cumple de thiago :3</a></h3>
 
 								</article>
 							</div>
@@ -300,9 +291,9 @@
 							<div class="aligncenter">
 								<a href="blog-single.html"><img src="{{asset('images/cumple1.jpg')}}" alt="image desciption"></a>
 							</div>
-							<h3><a href="blog-single.html">Best Educational Psd Template Launching Today</a></h3>
-							<p>Areas tackled in the most fundamental part of medical research include cellu lar and molecular biology&hellip;</p>
-							<time datetime="2011-01-12" class="time text-uppercase text-gray">Mar 05,2017  by <a href="blog-single.html">andrew caset</a></time>
+							<h3><a href="blog-single.html">El primero siempre sale feo.</a></h3>
+							<p>En este recuerdo que me moje, no conseguiamos harina, a thiago le compramos una galleta, tu querias comer pizza , y muchas cosas desastrozas mas, al final, todo salio bien y yo termine usando ropa de victor xD</p>
+							<time datetime="2011-01-12" class="time text-uppercase text-gray">Septiembre 23,2017  by <a href="blog-single.html">Tu novio</a></time>
 						</article>
 					</div>
 					<div class="col-xs-12 col-sm-6 col-md-4">
@@ -311,9 +302,9 @@
 							<div class="aligncenter">
 								<a href="blog-single.html"><img src="{{asset('images/cumple2.jpg')}}" alt="image desciption"></a>
 							</div>
-							<h3><a href="blog-single.html">Your one stop Solution for Android Development Needs</a></h3>
-							<p>Areas tackled in the most fundamental part of medical research include cellu lar and molecular biology&hellip;</p>
-							<time datetime="2011-01-12" class="time text-uppercase text-gray">Mar 05,2017  by <a href="blog-single.html">andrew caset</a></time>
+							<h3><a href="blog-single.html">El segundo siempre es planificado.</a></h3>
+							<p>En este tuvimos 2 semana planificandolo y todo salio de acuerdo al plan (por lo menos XD).</p><br><br>
+							<time datetime="2011-01-12" class="time text-uppercase text-gray">Septiembre 23,2017  by <a href="blog-single.html">Tu novio</a></time>
 						</article>
 					</div>
 					<div class="col-xs-12 col-sm-6 col-md-4">
@@ -322,8 +313,8 @@
 							<div class="aligncenter">
 								<a href="blog-single.html"><img src="{{asset('images/cumple3.jpg')}}" alt="image desciption"></a>
 							</div>
-							<h3><a href="blog-single.html">Online Learning students council meeting 2017</a></h3>
-							<p>Areas tackled in the most fundamental part of medical research include cellu lar and molecular biology&hellip;</p>
+							<h3><a href="blog-single.html">Lo mas bello en la vida cumpliendo año.</a></h3>
+							<p>Aún estabamos en la universidad, me picaron una torta de chocolate,rellena de chocolate y cubierta de chocolate, y tu usando tu camisa de siempre :3.</p>
 							<time datetime="2011-01-12" class="time text-uppercase text-gray">Mar 05,2017  by <a href="blog-single.html">andrew caset</a></time>
 						</article>
 					</div>
